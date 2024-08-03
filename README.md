@@ -36,4 +36,6 @@ Suggest potential future research directions. What are the next steps? What ques
 
 ---
 
-This research was conducted as part of [Your Institution/Organization].
+This research was conducted as part of ASEAN GMS grant and part of AIDA
+(Applied Intelligence and Data Analytics) lab in College of Computing, Khon Kaen University,
+Thailand.
