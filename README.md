@@ -4,7 +4,7 @@
 ## Introduction
 we aim to enhance the performance of several classical machine learning algorithms, including Decision
 Trees (DT), Logistic Regression (LR), and Support Vector Machines (SVM), in customer churn
-prediction tasks.
+prediction tasks using CTGAN-ENN and cost-sensitive learning method.
 
 ## Objectives
 - Optimizing customer churn prediction result by extend the CTGAN-ENN with cost-sensitive learning perspective
