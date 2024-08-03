@@ -2,7 +2,9 @@
 
 
 ## Introduction
-Provide a brief overview of the research project. Explain the problem you aimed to address and why it is significant.
+we aim to enhance the performance of several classical machine learning algorithms, including Decision
+Trees (DT), Logistic Regression (LR), and Support Vector Machines (SVM), in customer churn
+prediction tasks.
 
 ## Objectives
 - Optimizing customer churn prediction result by extend the CTGAN-ENN with cost-sensitive learning perspective
