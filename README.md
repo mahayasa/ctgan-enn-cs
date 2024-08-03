@@ -35,7 +35,7 @@ prediction tasks using CTGAN-ENN and cost-sensitive learning method.
 
 
 ## Future Work
-We want to try some extension exoeremint on CTGAN method such as an anomaly detection method on CTGAN to make sure the synthetic data produced are not outliers.
+We want to try another experients on CTGAN method such as adding anomaly detection method on CTGAN to make sure the synthetic data produced are not outliers.
 
 
 ---
