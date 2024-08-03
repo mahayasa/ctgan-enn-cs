@@ -12,7 +12,8 @@ prediction tasks.
 - Ivestigate how robust is the classical machine learning algorithm on this area
 
 ## Methodology
-
+![Figure 1](path/to/figure1.png)
+*Figure 1: Description of Figure 1.*
 
 ## Results
 
@@ -21,11 +22,11 @@ prediction tasks.
 - 
 
 ### Visualizations
-![Figure 1](path/to/figure1.png)
-*Figure 1: Description of Figure 1.*
+![Figure 2](path/to/figure1.png)
+*Figure 2: Description of Figure 1.*
 
-![Figure 2](path/to/figure2.png)
-*Figure 2: Description of Figure 2.*
+![Figure 3](path/to/figure2.png)
+*Figure 3: Description of Figure 2.*
 
 ## Discussion
 
@@ -45,10 +46,10 @@ Thailand.
 
 
 ## Cite this work
-```bibtex
+<!--```bibtex
 @misc{yourlabel,
   author = {Author(s) Name(s)},
   title = {Title of Research Project},
   year = {Year},
   howpublished = {\url{URL of the repository}}
-}
+}-->
