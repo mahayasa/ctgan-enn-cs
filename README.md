@@ -35,7 +35,7 @@ prediction tasks.
 
 
 ## Future Work
-add some extension on CTGAN method such as an anomaly detection method on CTGAN to make sure the synthetic data produced are not outliers.
+We want to try some extension exoeremint on CTGAN method such as an anomaly detection method on CTGAN to make sure the synthetic data produced are not outliers.
 
 
 ---
