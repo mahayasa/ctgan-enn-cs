@@ -42,3 +42,13 @@ add some extension on CTGAN method such as an anomaly detection method on CTGAN 
 This research was conducted as part of ASEAN GMS grant and part of AIDA
 (Applied Intelligence and Data Analytics) lab in College of Computing, Khon Kaen University,
 Thailand.
+
+
+## Cite this work
+```bibtex
+@misc{yourlabel,
+  author = {Author(s) Name(s)},
+  title = {Title of Research Project},
+  year = {Year},
+  howpublished = {\url{URL of the repository}}
+}
