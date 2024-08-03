@@ -8,6 +8,7 @@ prediction tasks.
 
 ## Objectives
 - Optimizing customer churn prediction result by extend the CTGAN-ENN with cost-sensitive learning perspective
+- Evaluate the performance of prediction using F1-score, AUC, and G-Mean metric
 - Ivestigate how robust is the classical machine learning algorithm on this area
 
 ## Methodology
