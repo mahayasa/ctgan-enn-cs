@@ -34,7 +34,7 @@ prediction tasks.
 
 
 ## Future Work
-Suggest potential future research directions. What are the next steps? What questions remain unanswered?
+add some extension on CTGAN method such as an anomaly detection method on CTGAN to make sure the synthetic data produced are not outliers.
 
 
 ---
