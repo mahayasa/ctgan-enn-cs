@@ -39,7 +39,10 @@ We want to try another experients on CTGAN method such as adding anomaly detecti
 
 
 ---
-
+<p align="left">
+<img src="https://github.com/mahayasa/gan-hybrid-sampling-customer-churn/blob/main/image/kku.png" alt="Sample Image" width="20%">
+<img src="https://github.com/mahayasa/gan-hybrid-sampling-customer-churn/blob/main/image/coc1.png" alt="Sample Image" width="20%">
+</p>
 This research was conducted as part of ASEAN GMS grant and part of AIDA
 (Applied Intelligence and Data Analytics) lab in College of Computing, Khon Kaen University,
 Thailand.
