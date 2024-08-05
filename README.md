@@ -28,9 +28,10 @@ CTGAN-ENN-CS framework surpasses the CTGAN-ENN on average on AUC-ROC, F1-Score, 
 
 
 ### Key Findings
-- CTGAN-ENN-CS improved (DT,SVM,LR) Classical machine learning performance on customer churn prediction on average
-- CTGAN-ENN-CS was the most robust performance on (DT,SVM,LR)
-- The most siginificant improvement by CTGAN-ENN-CS was SVM
+- Cost-Sensitive learning was able to improve hybrid sampling method on classical machine learning (DT,SVM,LR)
+- CTGAN-ENN-CS improved performance on customer churn prediction on AUC, F1-Score and G-Mean metrics
+- CTGAN-ENN-CS was the most robust performance on all algorithm
+- The most siginificant algorithm improvement by CTGAN-ENN-CS was on SVM
 
 
 
