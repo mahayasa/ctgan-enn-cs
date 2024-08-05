@@ -39,7 +39,7 @@ The objective of CTGAN-ENN-CS is fine-tuning on hyperparameter of the lassifier 
 
 
 ## Future Work
-We want to try another experients on CTGAN method such as adding anomaly detection method on CTGAN to make sure the synthetic data produced are not outliers.
+Experiments another hybrid combination on CTGAN method such as adding anomaly detection method on CTGAN to make sure the synthetic data produced are not outliers.
 
 
 ---
