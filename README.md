@@ -12,8 +12,12 @@ prediction tasks using CTGAN-ENN and cost-sensitive learning method.
 - Ivestigate how robust is the classical machine learning algorithm on this area
 
 ## Methodology
-![Figure 1](path/to/figure1.png)
-*Figure 1: Description of Figure 1.*
+<img src="https://github.com/mahayasa/ctgan-enn-cs/blob/main/image/ctgan-enn.jpg" alt="Sample Image" width="70%">
+CTGAN was used to generates synthetic data to augment the minority class, resulting in a set of generated data.
+The new dataset is further processed with ENN which aims to remove noisy or ambiguous instances by identifying and eliminating overlapping data points.
+<br><br>
+<img src="https://github.com/mahayasa/ctgan-enn-cs/blob/main/image/ctgan-enn-cs.png" alt="Sample Image" width="70%">
+The objective of CTGAN-ENN-CS is fine-tuning on hyperparameter of the lassifier in 𝑐𝑙𝑎𝑠𝑠_𝑤𝑒𝑖𝑔ℎ𝑡 hyperparameter. This involves adjusting the weights assigned to the classes in the loss function to handle class
 
 ## Results
 
@@ -22,11 +26,7 @@ prediction tasks using CTGAN-ENN and cost-sensitive learning method.
 - 
 
 ### Visualizations
-![Figure 2](path/to/figure1.png)
-*Figure 2: Description of Figure 1.*
 
-![Figure 3](path/to/figure2.png)
-*Figure 3: Description of Figure 2.*
 
 ## Discussion
 
