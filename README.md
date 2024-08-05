@@ -1,6 +1,10 @@
 # Optimizing CTGAN-ENN in Customer Churn Prediction: A Cost-Sensitive Learning Perspective
 [![PyPI version](https://badge.fury.io/py/ctganenn.svg)](https://badge.fury.io/py/ctganenn)
 [![Python Version](https://img.shields.io/badge/python-3.8%20%7C%203.9-blue)](https://badge.fury.io/py/ctganenn)
+<p align="left">
+<img src="https://github.com/mahayasa/gan-hybrid-sampling-customer-churn/blob/main/image/kku.png" alt="Sample Image" width="20%">
+<img src="https://github.com/mahayasa/gan-hybrid-sampling-customer-churn/blob/main/image/coc1.png" alt="Sample Image" width="20%">
+</p>
 
 ## Introduction
 we aim to enhance the performance of several classical machine learning algorithms, including Decision
@@ -40,10 +44,6 @@ Experiments another hybrid combination on CTGAN method such as adding anomaly de
 
 
 ---
-<p align="left">
-<img src="https://github.com/mahayasa/gan-hybrid-sampling-customer-churn/blob/main/image/kku.png" alt="Sample Image" width="20%">
-<img src="https://github.com/mahayasa/gan-hybrid-sampling-customer-churn/blob/main/image/coc1.png" alt="Sample Image" width="20%">
-</p>
 This research was conducted as part of ASEAN GMS grant and part of AIDA
 (Applied Intelligence and Data Analytics) lab in College of Computing, Khon Kaen University,
 Thailand.
