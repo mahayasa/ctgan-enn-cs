@@ -24,18 +24,14 @@ The details of framework result can be access <a href="https://github.com/mahaya
 The objective of CTGAN-ENN-CS is fine-tuning on hyperparameter of the lassifier in 𝑐𝑙𝑎𝑠𝑠_𝑤𝑒𝑖𝑔ℎ𝑡 hyperparameter. This involves adjusting the weights assigned to the classes in the loss function to handle class
 
 ## Results
+CTGAN-ENN-CS framework surpasses the CTGAN-ENN on average on AUC-ROC, F1-Score, and G-Mean evaluation metrics, the result also shows CTGAN-ENN-CS was more robust than CTGAN-ENN in all classical machine learning algorithms.
 
 
 ### Key Findings
-- 
+- CTGAN-ENN-CS improved (DT,SVM,LR) Classical machine learning performance on customer churn prediction on average
+- CTGAN-ENN-CS was the most robust performance on (DT,SVM,LR)
+- The most siginificant improvement by CTGAN-ENN-CS was SVM
 
-### Visualizations
-
-
-## Discussion
-
-
-## Conclusion
 
 
 ## Future Work
