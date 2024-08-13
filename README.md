@@ -4,7 +4,7 @@
 <img src="https://github.com/mahayasa/gan-hybrid-sampling-customer-churn/blob/main/image/coc1.png" alt="Sample Image" width="20%">
 </p>
 
-# Optimizing CTGAN-ENN in Customer Churn Prediction: A Cost-Sensitive Learning Perspective 
+# CostLearnGAN: Optimized Customer Churn Prediction Using GAN Based Hybrid Sampling Method and Cost-Sensitive Learning
 [![PyPI version](https://badge.fury.io/py/ctganenn.svg)](https://badge.fury.io/py/ctganenn)
 [![Python Version](https://img.shields.io/badge/python-3.8%20%7C%203.9-blue)](https://badge.fury.io/py/ctganenn)
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1xJP-be9ZNvuTMvxfJ8CPN-wo0ZPO5Kys?usp=sharing)
