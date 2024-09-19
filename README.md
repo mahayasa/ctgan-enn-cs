@@ -30,18 +30,16 @@ The details of framework result can be accessed <a href="https://github.com/maha
 <br><br>
 
 <img src="https://github.com/mahayasa/ctgan-enn-cs/blob/main/image/ctgan-enn-cs.png" alt="Sample Image" width="100%">
-The objective of CTGAN-ENN-CS is fine-tuning on hyperparameter of the lassifier in 𝑐𝑙𝑎𝑠𝑠_𝑤𝑒𝑖𝑔ℎ𝑡 hyperparameter. This involves adjusting the weights assigned to the classes in the loss function to handle class
+The objective of CostLearnGAN is fine-tuning on hyperparameter of the lassifier in 𝑐𝑙𝑎𝑠𝑠_𝑤𝑒𝑖𝑔ℎ𝑡 hyperparameter. This involves adjusting the weights assigned to the classes in the loss function to handle class
 
 ## Results
-CTGAN-ENN-CS framework surpasses the CTGAN-ENN on average on AUC-ROC, F1-Score, and G-Mean evaluation metrics, the result also shows CTGAN-ENN-CS was more robust than CTGAN-ENN in all classical machine learning algorithms.
+CostLearnGAN framework surpasses the CTGAN-ENN on average on AUC-ROC, F1-Score, and G-Mean evaluation metrics, the result also shows CTGAN-ENN-CS was more robust than CTGAN-ENN in all classical machine learning algorithms.
 
 
 ### Key Findings
 - Cost-Sensitive learning was able to improve hybrid sampling method on classical machine learning (DT,SVM,LR)
-- CTGAN-ENN-CS improved performance on customer churn prediction on AUC, F1-Score and G-Mean metrics
-- CTGAN-ENN-CS was the most robust performance on all algorithm
-- The most siginificant algorithm improvement by CTGAN-ENN-CS was on SVM
-
+- CostLearnGAN improved performance on customer churn prediction on AUC, F1-Score and G-Mean metrics
+- CostLearnGAN was the most robust performance on all algorithm
 
 
 ## Future Work
@@ -51,7 +49,7 @@ Experiments another hybrid combination on CTGAN method such as adding anomaly de
 ---
 This research was conducted as part of ASEAN GMS grant and part of AIDA
 (Applied Intelligence and Data Analytics) lab in College of Computing, Khon Kaen University,
-Thailand.
+Thailand. This study also conducted in collaboration with Rebecca Lab, Feng Chia University, Taiwan.
 
 
 ## Cite this work
