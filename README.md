@@ -8,6 +8,7 @@
 # Optimized Customer Churn Prediction Using Tabular GAN-Based Hybrid Sampling Method and Cost-Sensitive Learning
 [![DOI](https://zenodo.org/badge/824489441.svg)](https://doi.org/10.5281/zenodo.14892529)
 [![PyPI version](https://badge.fury.io/py/ctganenn.svg)](https://badge.fury.io/py/ctganenn)
+[![PyPI version](https://badge.fury.io/py/classWeightLearn.svg)](https://badge.fury.io/py/classWeightLearn)
 [![Python Version](https://img.shields.io/badge/python-3.8%20%7C%203.9-blue)](https://badge.fury.io/py/ctganenn)
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1xJP-be9ZNvuTMvxfJ8CPN-wo0ZPO5Kys?usp=sharing)
 </div>
