@@ -55,10 +55,10 @@ Thailand. This study also conducted in collaboration with Rebecca Lab, Feng Chia
 
 
 ## Cite this work
-<!--```bibtex
-@misc{yourlabel,
-  author = {Author(s) Name(s)},
-  title = {Title of Research Project},
-  year = {Year},
-  howpublished = {\url{URL of the repository}}
-}-->
+```bibtex
+@misc{costlearngan,
+  author = {I Nyoman Mahayasa Adiputra, Paweena Wanchai, Pei-Chun Lin},
+  title = {Optimized customer churn prediction using tabular generative adversarial network (GAN)-based hybrid sampling method and cost-sensitive learning},
+  year = {2025},
+  url = {https://doi.org/10.7717/peerj-cs.2949}
+}
