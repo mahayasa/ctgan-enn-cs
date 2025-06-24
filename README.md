@@ -50,8 +50,8 @@ Experiments another hybrid combination on CTGAN method such as adding anomaly de
 
 ---
 This research was conducted as part of ASEAN GMS grant and part of AIDA
-(Applied Intelligence and Data Analytics) lab in College of Computing, Khon Kaen University,
-Thailand. This study also conducted in collaboration with Rebecca Lab, Feng Chia University, Taiwan.
+(Applied Intelligence and Data Analytics) lab in College of Computing, <a href='https://m.kku.ac.th/'>Khon Kaen University</a>,
+Thailand. This study also conducted in collaboration with Rebecca Lab, <a href='https://www.fcu.edu.tw/en/'>Feng Chia University</a>, Taiwan.
 
 
 ## Cite this work
